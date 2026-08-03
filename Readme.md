@@ -75,11 +75,11 @@ Instruction-Set-Simulator-CPP/
 ├── bin/
 │   └── InstructionSetSimulator.exe
 │
-├── screenshots/
-│   ├── program_screenshot1.png
-│   ├── program_screenshot2.png
-│   ├── program_screenshot3.png
-│   └── program_screenshot4.png
+├──screenshotsprogram_screenshot2.png
+│──screenshotsprogram_screenshot3.png
+│   
+│   
+│
 │
 ├── README.md
 ├── LICENSE
