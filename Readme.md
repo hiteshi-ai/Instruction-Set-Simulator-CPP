@@ -249,9 +249,9 @@ g++ src/main.cpp src/Utilities.cpp src/Parser.cpp src/Generator.cpp -o iss
 
 ### Program Execution
 
-![Program Screenshot 2](screenshots/program_screenshot2.png)
+![Program Screenshot 2]screenshots/program_screenshot2.png
 
-![Program Screenshot 3](screenshots/program_screenshot3.png)
+![Program Screenshot 3]screenshots/program_screenshot3.png
 
 ---
 
